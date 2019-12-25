@@ -1,0 +1,151 @@
+/*====================================
+======================================
+XL DEVICE : => 1200PX
+=======================================
+======================================*/
+@media (min-width: 1200px){
+	.main_p .profoverview a, .main_p .profoverview i {
+	font-size: 14px;
+}
+.main_p .user_detains h2 {
+	font-size: 25px;
+}
+.main_p .rsbl .about_user h2 {
+	font-size: 18px;
+}
+
+
+
+}
+
+/*====================================
+======================================
+LG DEVICE : => 992PX,
+======================================
+======================================*/
+@media (min-width: 992px) and (max-width: 1199px){
+	.main_p {
+	padding: 50px 90px;
+}
+.main_p .profoverview a, .main_p .profoverview i {
+	font-size: 13px;
+}
+.main_p .user_detains h2 {
+	font-size: 22px;
+}
+.main_p .rsbl .about_user h2 {
+	font-size: 17px;
+}
+.main_p .rsbl .about_user span {
+	font-size: 18px;
+}
+.main_p .rsbl .about_user p {
+	font-size: 12px;
+}
+.main_p .rsbl .about_user p {
+	font-size: 12px;
+}
+.main_p .rsbl .since_user p {
+	font-size: 12px;
+}
+.main_p .rsbl .think_user span {
+	font-size: 18px;
+}
+.main_p .rsbl .think_user p {
+	font-size: 12px;
+}
+.main_p .rsbl .think_user small {
+	font-size: 12px;
+}
+.main_p .rsbl {
+	margin-top: 87px;
+}
+
+
+
+
+}
+
+/*=====================================
+=======================================
+MD DEVICE : => 768PX, 
+=======================================
+=======================================*/
+@media (min-width: 768px) and (max-width: 991px){
+
+	.main_p {
+		padding: 50px 20px;
+	}
+	.main_p .user_detains h2 {
+		font-size: 20px;
+	}
+	.main_p .user_detains .pro_options ul li a, .main_p .user_detains .pro_options ul li i {
+		font-size: 12px;
+	}
+	.main_p .profoverview a, .main_p .profoverview i {
+		font-size: 10px;
+	}
+	.main_p .rsbl .about_user h2 {
+		font-size: 18px;
+	}
+	.main_p .rsbl .about_user span {
+		font-size: 16px;
+	}
+	.main_p .rsbl .about_user p {
+		font-size: 14px;
+	}
+	.main_p .rsbl .since_user span {
+		font-size: 16px;
+	}
+
+	.main_p .rsbl .think_user span {
+		font-size: 16px;
+	}
+	.main_p .rsbl {
+		margin-top: 130px;
+	}
+
+}
+
+
+/*====================================
+======================================
+SM DEVICE : 575 
+======================================
+======================================*/
+@media (min-width: 576px) and (max-width: 767px){
+	.main_p {
+	padding: 50px 10px;
+}
+.main_p .profoverview {
+	border-left: none;
+	border-bottom: 1px solid #c2c2c2;
+}
+.main_p .rsbl {
+	border-left: none;
+	border-bottom: 1px solid #c2c2c2;
+}
+
+
+
+
+}
+
+/*====================================
+======================================
+XS DEVICE :
+======================================
+======================================*/
+@media (max-width: 575px){
+		.main_p {
+	padding: 50px 10px;
+}
+.main_p .profoverview {
+	border-left: none;
+	border-bottom: 1px solid #c2c2c2;
+}
+.main_p .rsbl {
+	border-left: none;
+	border-bottom: 1px solid #c2c2c2;
+}
+}
